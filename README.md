@@ -36,7 +36,10 @@ features of your own.
 _______________________________________________________________________________________________________________________________________________
 UI EXPLAINED:
 
-1) 
+BUTTONS:
+#1: Reset Camera :
+<img width="110" alt="image" src="https://github.com/user-attachments/assets/239eec10-059a-4ecb-bda9-e50f93c2b9f0" />
+Use: This will allow you to revert the camera back to it's original position.  
 
 
 _______________________________________________________________________________________________________________________________________________
