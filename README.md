@@ -37,22 +37,24 @@ ________________________________________________________________________________
 UI EXPLAINED:
 
 BUTTONS:
-
+______________________________________________________________________
 Button #1: Import .glb Model:
 
 Use: This allows a user to select a .glb model on their local machine, and then upload it so it can be seen in the AS2 app and color swapped.
 
 <img width="140" alt="image" src="https://github.com/user-attachments/assets/01cce6e6-c0dd-4556-a492-ee5e02418ae3" />
 
-
+______________________________________________________________________
 Button #2, #3, #4:
 
 Use: These three buttons allow a user to specify colors on a .glb mode's material, and then choose replacement colors to be applied as 
 material variants. All three buttons work the same. 
 
+<img width="129" alt="image" src="https://github.com/user-attachments/assets/e216b340-fedd-4382-bc01-bcc93d235fc0" />
 
 
 
+______________________________________________________________________
 Button #5: Reset Camera:
 
 Use: This will allow you to revert the camera back to it's original position. 
@@ -61,7 +63,7 @@ Use: This will allow you to revert the camera back to it's original position.
 
  
 
-
+______________________________________________________________________
 Button #6: Export Model + Material Variants:
 
 Use: This allows the user to export the newly color swapped .glb model to a desired directory on their local machine. Please note that if you
