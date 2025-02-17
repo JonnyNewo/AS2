@@ -4,6 +4,8 @@ DETAILS:
 
 The AS2 Web Utility allows .glb models to be viewed in a browser, and then re-colored using the .glb file format's material variant system. 
 This is helpful if you would like to consider alternative colors for an existing model. 
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/7f4f9362-411a-4145-aa83-4622bec92ebf" />
+
 
 _______________________________________________________________________________________________________________________________________________
 PREREQUISITES:
